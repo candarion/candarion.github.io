@@ -1,0 +1,10 @@
+.subsection {
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+}
+.highlight {
+  background-color: #ff0;
+}
+.pure-table tr td:not(:nth-child(4n+1)) {
+  text-align: right;
+}
