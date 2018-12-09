@@ -8,3 +8,10 @@
 .pure-table tr td:not(:nth-child(4n+1)) {
   text-align: right;
 }
+.subsection li {
+  list-style-type: none;
+}
+.hanging-indent {
+  padding-left: 2.5rem;
+  text-indent: -2.5rem;
+}
